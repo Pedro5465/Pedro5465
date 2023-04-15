@@ -146,13 +146,9 @@
 
 ![Progresso](https://progress-bar.dev/0/)
 
-**Git**
+**Git / Github**
 
-![Progresso](https://progress-bar.dev/0/)
-
-**Github**
-
-![Progresso](https://progress-bar.dev/0/)
+![Progresso](https://progress-bar.dev/1/)
 
 **Inglês Aplicado**
 
